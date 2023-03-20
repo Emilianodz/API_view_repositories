@@ -10,7 +10,14 @@ The purpose of this project is to demonstrate how to use the Github API to retri
 ```
 pip install -r requirements.txt
 ```
-Run the program:
+
+To explore information on terminal:
+```
+python python_repos.py  
+```
+
+
+Run the program of visualization:
 ```
 python python_repos_visual.py  
 ```
